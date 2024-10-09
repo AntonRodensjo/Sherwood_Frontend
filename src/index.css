@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Variables */
+:root {
+    --light-primary-green: #22503e;
+    --light-secondary-blue: #0d4c74;
+
+    --light-bg-gray: #f4f4f4;
+
+    --light-accent-blue: #1386c2;
+    --light-accent-brown: #3f1f14;
+    --light-accent-dark: #2a2a2a;
+    --light-accent-light: #e1e8ed;
+}
